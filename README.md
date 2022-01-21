@@ -16,6 +16,6 @@
     - ⚗️ web server management
 
 ## Some stat about me
-![K4W43GL3's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaegle&show_icons=true&theme=tokyonight&count_private=true&custom_title="K4W43GL3's stat")
+![K4W43GL3's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaegle&show_icons=true&theme=tokyonight&count_private=true&custom_title="K4W43GL3 stat")
 
 I enjoy to discuss on pull request and issue so if you want to open one feel free to
