@@ -18,7 +18,7 @@
 ## Some stat about me
 [![K4W43GL3's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaegle&show_icons=true&theme=tokyonight)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaegle)](https://github.com/kawaegle/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaegle&show_icons=true&theme=tokyonight)](https://github.com/kawaegle/)
 
 ## I like to discuss 
 So you can make pull request or open issue if you want to
