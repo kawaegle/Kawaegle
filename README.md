@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**kawaegle/Kawaegle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Kawaegle nice to meeet you 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [setup_arch](https://github.com/kawaegle/setup_arch)
+
+- 🌱 I’m currently learning Vim (and neovim) linux terminologie and the C lang
+
+- 💬 Ask me about anythings that can be funny to explore like
+    - 🔒️ security
+    - 🏗️ inovation
+    - ⚗️ web server management
+
+## Some stat about me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
