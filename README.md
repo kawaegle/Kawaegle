@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Kawaegle nice to meeet you 👋
+## My name is Kawaegle nice to meet you 👋
 
 
 - 🔭 I’m currently working on:
