@@ -35,7 +35,7 @@
     - [setup_arch](https://github.com/kawaegle/setup_arch)
     - [Cmproved](https://github.com/Cmproved)
     - e-setup ESP oriented [smart_room](https://github.com/kawaegle/smart_room)
-    - [Cuddly octo](https://github.com/oppaiweeb/cuddly_octo)
+    - A graphical led manager [Cuddly octo](https://github.com/oppaiweeb/cuddly_octo) and maybe later a javascript version of it [WIP](https://media.istockphoto.com/id/972656200/vector/wip-sign-icon.jpg?s=170667a&w=0&k=20&c=iYAFx-aHLUIOmc7llSgCOGBbxIuhx87GIstJ1AWxQIU=)
 - 🌱 I’m currently learning linux terminologie and the C lang
 - 💬 Ask me about anythings that can be funny to explore like:
     - 🔒️ security
