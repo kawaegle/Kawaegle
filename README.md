@@ -1,6 +1,6 @@
 # Hi there 👋
 ## My name is Kawaegle nice to meet you 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaegle&label=Profile%20views&color=00bfff&style=flat" alt="blisteur" /> </p>
 :woman_technologist: Technos I like :
 <div>
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" width="150">
