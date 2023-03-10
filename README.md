@@ -44,10 +44,9 @@
 
 ### :fire: My Stats :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kawaegle&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kawaegle&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) ![K4W43GL3's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaegle&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaegle&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawaegle&theme=tokyonight)
 
-![K4W43GL3's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaegle&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaegle&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawaegle&theme=tokyonight)
-
+[![kawaegle's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kawaegle&area=true&hide_border=true&theme=tokyo-night)](https://github.com/kawaegle)
 
 ## I like to discuss
 So you can make pull request or open issue if you want to
