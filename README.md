@@ -1,6 +1,7 @@
 # Hi there 👋
-## My name is Kawaegle nice to meet you 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaegle&label=Profile%20views&color=00bfff&style=flat" alt="blisteur" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaegle&label=Profile%20views&color=00bfff&style=flat" alt="K4W43GL3" /> </p>
+
 :woman_technologist: Technos I like :
 
   #### My Main Os): <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" width="150"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="50" />[![raspberry](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
